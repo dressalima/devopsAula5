@@ -1,0 +1,5 @@
+language : python
+python:
+  - "3.a"
+ script:
+  - cd src; python testes.py
